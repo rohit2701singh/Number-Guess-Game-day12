@@ -15,7 +15,6 @@ def number_selection():
 chosen_number = number_selection()
 # print(f"chosen_number: {chosen_number}\n")
 
-
 level = input("choose the difficulty level. Type 'e for easy' and 'h for hard': ").lower()
 
 
